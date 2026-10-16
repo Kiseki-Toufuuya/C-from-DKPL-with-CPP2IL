@@ -1,0 +1,99 @@
+namespace UnityEngine.UIElements;
+
+public class MultiColumnListView : BaseListView
+{
+	[Obsolete("UxmlFactory is deprecated and will be removed. Use UxmlElementAttribute instead.", False)]
+	internal class UxmlFactory : UxmlFactory<MultiColumnListView, UxmlTraits>
+	{
+
+		public UxmlFactory() { }
+
+	}
+
+	[Obsolete("UxmlTraits is deprecated and will be removed. Use UxmlElementAttribute instead.", False)]
+	internal class UxmlTraits : UxmlTraits
+	{
+		private readonly UxmlEnumAttributeDescription<ColumnSortingMode> m_SortingMode; //Field offset: 0x84
+		private readonly UxmlObjectAttributeDescription<Columns> m_Columns; //Field offset: 0x88
+		private readonly UxmlObjectAttributeDescription<SortColumnDescriptions> m_SortColumnDescriptions; //Field offset: 0x8C
+
+		public UxmlTraits() { }
+
+		public virtual void Init(VisualElement ve, IUxmlAttributes bag, CreationContext cc) { }
+
+	}
+
+	private static readonly BindingId columnsProperty; //Field offset: 0x0
+	private static readonly BindingId sortColumnDescriptionsProperty; //Field offset: 0x4C
+	private static readonly BindingId sortingModeProperty; //Field offset: 0x98
+	private Columns m_Columns; //Field offset: 0x490
+	private ColumnSortingMode m_SortingMode; //Field offset: 0x494
+	private SortColumnDescriptions m_SortColumnDescriptions; //Field offset: 0x498
+	private List<SortColumnDescription> m_SortedColumns; //Field offset: 0x49C
+	[CompilerGenerated]
+	[DebuggerBrowsable(DebuggerBrowsableState::Never (0))]
+	private Action columnSortingChanged; //Field offset: 0x4A0
+	[CompilerGenerated]
+	[DebuggerBrowsable(DebuggerBrowsableState::Never (0))]
+	private Action<ContextualMenuPopulateEvent, Column> headerContextMenuPopulateEvent; //Field offset: 0x4A4
+
+	[CreateProperty]
+	public private Columns columns
+	{
+		 get { } //Length: 14
+		private set { } //Length: 307
+	}
+
+	[CreateProperty]
+	public private SortColumnDescriptions sortColumnDescriptions
+	{
+		 get { } //Length: 14
+		private set { } //Length: 224
+	}
+
+	[CreateProperty]
+	public ColumnSortingMode sortingMode
+	{
+		 get { } //Length: 14
+		 set { } //Length: 157
+	}
+
+	public MultiColumnListViewController viewController
+	{
+		 get { } //Length: 119
+	}
+
+	private static MultiColumnListView() { }
+
+	public MultiColumnListView() { }
+
+	public MultiColumnListView(Columns columns) { }
+
+	private void ColumnsChanged(object sender, BindablePropertyChangedEventArgs args) { }
+
+	protected virtual CollectionViewController CreateViewController() { }
+
+	virtual void CreateVirtualizationController() { }
+
+	public Columns get_columns() { }
+
+	public SortColumnDescriptions get_sortColumnDescriptions() { }
+
+	public ColumnSortingMode get_sortingMode() { }
+
+	public MultiColumnListViewController get_viewController() { }
+
+	private void RaiseColumnSortingChanged() { }
+
+	private void RaiseHeaderContextMenuPopulate(ContextualMenuPopulateEvent evt, Column column) { }
+
+	private void set_columns(Columns value) { }
+
+	private void set_sortColumnDescriptions(SortColumnDescriptions value) { }
+
+	public void set_sortingMode(ColumnSortingMode value) { }
+
+	public virtual void SetViewController(CollectionViewController controller) { }
+
+}
+

@@ -1,0 +1,35 @@
+namespace Heqet.Danmaku;
+
+public enum eStageBackground
+{
+	BG00101_HakureiShrine = 0,
+	BG00201_ForestOfMagic = 1,
+	BG00202_ForestOfMagic = 2,
+	BG00301_SuzuranField = 3,
+	BG00401_MistyLake = 4,
+	BG00601_ScarletDevilMansion = 5,
+	BG00602_ScarletDevilMansion = 6,
+	BG00701_HumanVillage = 7,
+	BG00702_HumanVillage = 8,
+	BG00801_BambooForestOfTheLost = 9,
+	BG00901_Space = 10,
+	BG01001_Sky = 11,
+	BG01002_Sky = 12,
+	BG01101_Myourenji = 13,
+	BG01102_Myourenji = 14,
+	BG01201_MoriyaShrine = 15,
+	BG01202_MoriyaShrine = 16,
+	BG01301_PalaceOfTheEarthSpirits = 17,
+	BG01401_Cave = 18,
+	BG01501_YoukaiMountain = 19,
+	BG01502_YoukaiMountain = 20,
+	BG01601_Heaven = 21,
+	BG01701_StoneStepsToHakugyokurou = 22,
+	BG01801_SaigyouAyakashi = 23,
+	BG02001_DivineSpiritMausoleum = 24,
+	BG00802_BambooForestOfTheLost = 25,
+	BG02101_Desert = 26,
+	BG02201_Write = 27,
+	BG02301_Black = 28,
+}
+

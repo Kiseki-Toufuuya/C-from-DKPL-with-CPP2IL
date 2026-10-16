@@ -1,0 +1,21 @@
+namespace Cinemachine.Utility;
+
+public static class SplineHelpers
+{
+
+	public static float Bezier1(float t, float p0, float p1, float p2, float p3) { }
+
+	public static Vector3 Bezier3(float t, Vector3 p0, Vector3 p1, Vector3 p2, Vector3 p3) { }
+
+	public static float BezierTangent1(float t, float p0, float p1, float p2, float p3) { }
+
+	public static Vector3 BezierTangent3(float t, Vector3 p0, Vector3 p1, Vector3 p2, Vector3 p3) { }
+
+	public static void BezierTangentWeights3(Vector3 p0, Vector3 p1, Vector3 p2, Vector3 p3, out Vector3 w0, out Vector3 w1, out Vector3 w2) { }
+
+	public static void ComputeSmoothControlPoints(ref Vector4[] knot, ref Vector4[] ctrl1, ref Vector4[] ctrl2) { }
+
+	public static void ComputeSmoothControlPointsLooped(ref Vector4[] knot, ref Vector4[] ctrl1, ref Vector4[] ctrl2) { }
+
+}
+

@@ -1,0 +1,97 @@
+//Type is in global namespace
+
+[CompilerGenerated]
+internal sealed class <PrivateImplementationDetails>
+{
+	private struct __StaticArrayInitTypeSize=128
+	{
+
+	}
+
+	private struct __StaticArrayInitTypeSize=16
+	{
+
+	}
+
+	private struct __StaticArrayInitTypeSize=256
+	{
+
+	}
+
+	private struct __StaticArrayInitTypeSize=26
+	{
+
+	}
+
+	private struct __StaticArrayInitTypeSize=3
+	{
+
+	}
+
+	private struct __StaticArrayInitTypeSize=30
+	{
+
+	}
+
+	private struct __StaticArrayInitTypeSize=38
+	{
+
+	}
+
+	private struct __StaticArrayInitTypeSize=39
+	{
+
+	}
+
+	private struct __StaticArrayInitTypeSize=5
+	{
+
+	}
+
+	private struct __StaticArrayInitTypeSize=512
+	{
+
+	}
+
+	private struct __StaticArrayInitTypeSize=6
+	{
+
+	}
+
+	private struct __StaticArrayInitTypeSize=64
+	{
+
+	}
+
+	private struct __StaticArrayInitTypeSize=80
+	{
+
+	}
+
+	internal static readonly __StaticArrayInitTypeSize=39 0778B88CF739FBF497B4D61586F4B6448056E6B305D4B06A91BD5A34BB55F167; //Field offset: 0x0 || Has Field RVA (address hidden for diffability) || Field RVA Decoded (hex blob): [78 6D 6C 68 74 74 70 3A 2F 2F 77 77 77 2E 77 33 2E 6F 72 67 2F 58 4D 4C 2F 31 39 39 38 2F 6E 61 6D 65 73 70 61 63 65]
+	internal static readonly __StaticArrayInitTypeSize=128 07B17FBD48328D70E7A6875353DCC135EDC6C8008ADDA9287DD0D1C01A0C2DA5; //Field offset: 0x27 || Has Field RVA (address hidden for diffability) || Field RVA Decoded (hex blob): [FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF 3E FF FF FF 3F 34 35 36 37 38 39 3A 3B 3C 3D FF FF FF 40 FF FF FF 00 01 02 03 04 05 06 07 08 09 0A 0B 0C 0D 0E 0F 10 11 12 13 14 15 16 17 18 19 FF FF FF FF FF FF 1A 1B 1C 1D 1E 1F 20 21 22 23 24 25 26 27 28 29 2A 2B 2C 2D 2E 2F 30 31 32 33 FF FF FF FF FF]
+	internal static readonly __StaticArrayInitTypeSize=6 0AA86CAD79935F18BB2A386E4EE3942F4AC11B4917BBC244589A759E64A4320E; //Field offset: 0xA7 || Has Field RVA (address hidden for diffability) || Field RVA Decoded (hex blob): [75 74 66 2D 31 36]
+	internal static readonly __StaticArrayInitTypeSize=64 141D88DBD309555BDD06664CDA05DD54EF001086CADDAFE32AF6646AFEDF9B34; //Field offset: 0xAD || Has Field RVA (address hidden for diffability) || Field RVA Decoded (hex blob): [01 01 01 01 01 01 01 01 01 01 01 01 01 01 01 01 01 01 01 01 01 01 01 01 01 01 01 01 01 01 01 01 00 00 01 00 00 00 01 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 01 00 00 00]
+	internal static readonly __StaticArrayInitTypeSize=16 2125B2C332B1113AAE9BFC5E9F7E3B4C91D828CB942C2DF1EEB02502ECCAE9E9; //Field offset: 0xED || Has Field RVA (address hidden for diffability) || Field RVA Decoded (hex blob): [30 31 32 33 34 35 36 37 38 39 41 42 43 44 45 46]
+	internal static readonly __StaticArrayInitTypeSize=64 301512FFFF9F0A98660AAC6A73495F09EEBB3598609B3ED991AEC1B9C0283872; //Field offset: 0xFD || Has Field RVA (address hidden for diffability) || Field RVA Decoded (hex blob): [01 01 01 01 01 01 01 01 01 00 00 01 01 01 01 01 01 01 01 01 01 01 01 01 01 01 01 01 01 01 01 01 00 00 00 00 00 00 01 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 01 00 01 00]
+	internal static readonly __StaticArrayInitTypeSize=128 4115BAA94E12B39AB5433C271F51CA73A8941474946746BE20FF2E679265204A; //Field offset: 0x13D || Has Field RVA (address hidden for diffability) || Field RVA Decoded (hex blob): [FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF 00 01 02 03 04 05 06 07 08 09 FF FF FF FF FF FF FF 0A 0B 0C 0D 0E 0F FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF 0A 0B 0C 0D 0E 0F FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF]
+	internal static readonly long 43B2BAE670862746D450580C9D19092B89F152579694F3960C49B9B32631B636; //Field offset: 0x1C0 || Has Field RVA (address hidden for diffability)
+	internal static readonly long 4FFBAE68801817B08163DBD0023D76523C184FD01829D309F8731169CDF0DC32; //Field offset: 0x1C8 || Has Field RVA (address hidden for diffability)
+	internal static readonly __StaticArrayInitTypeSize=5 5CF1FA8D836A5E82EAD36FB0854A6A68A4B8F7542038A346357D2424DDB60F5E; //Field offset: 0x1D0 || Has Field RVA (address hidden for diffability) || Field RVA Decoded (hex blob): [75 74 66 2D 38]
+	internal static readonly __StaticArrayInitTypeSize=3 69902299DCBBB683E2F8D030182A118E263895B0741D115080954756FF6927F4; //Field offset: 0x1D5 || Has Field RVA (address hidden for diffability) || Field RVA Decoded (hex blob): [22 3F 3E]
+	internal static readonly __StaticArrayInitTypeSize=26 71C480DF93D6AE2F1EFAD1447C66C9525E316218CF51FC8D9ED832F2DAF18B73; //Field offset: 0x1D8 || Has Field RVA (address hidden for diffability) || Field RVA Decoded (hex blob): [61 62 63 64 65 66 67 68 69 6A 6B 6C 6D 6E 6F 70 71 72 73 74 75 76 77 78 79 7A]
+	internal static readonly __StaticArrayInitTypeSize=64 7543B37FA53FDE2C84F07FD39F368555966AA1C0EB2F2FD26B294D79966E290E; //Field offset: 0x1F2 || Has Field RVA (address hidden for diffability) || Field RVA Decoded (hex blob): [41 42 43 44 45 46 47 48 49 4A 4B 4C 4D 4E 4F 50 51 52 53 54 55 56 57 58 59 5A 61 62 63 64 65 66 67 68 69 6A 6B 6C 6D 6E 6F 70 71 72 73 74 75 76 77 78 79 7A 30 31 32 33 34 35 36 37 38 39 2B 2F]
+	internal static readonly __StaticArrayInitTypeSize=38 86E0A4D4F900F574D917587D8767680FDEDC64DA8E542A31F08B5A06C3FE389B; //Field offset: 0x232 || Has Field RVA (address hidden for diffability) || Field RVA Decoded (hex blob): [3C 3F 78 6D 6C 20 76 65 72 73 69 6F 6E 3D 22 31 2E 30 22 20 65 6E 63 6F 64 69 6E 67 3D 22 75 74 66 2D 38 22 3F 3E]
+	internal static readonly __StaticArrayInitTypeSize=256 916A8F81581DC5FBF1B7054C732973715AF88BEC75AA6D3FBA3F4CDD4339E640; //Field offset: 0x258 || Has Field RVA (address hidden for diffability) || Field RVA Decoded (hex blob): [00 00 00 00 00 00 00 00 00 6C 6C 00 00 44 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 7C 58 48 58 58 58 40 48 58 58 58 58 58 5A 5A 58 5A 5A 5A 5A 5A 5A 5A 5A 5A 5A 58 58 40 58 58 58 58 5B 5B 5B 5B 5B 5B 5B 5B 5B 5B 5B 5B 5B 5B 5B 5B 5B 5B 5B 5B 5B 5B 5B 5B 5B 5B 58 58 50 58 5B 58 5B 5B 5B 5B 5B 5B 5B 5B 5B 5B 5B 5B 5B 5B 5B 5B 5B 5B 5B 5B 5B 5B 5B 5B 5B 5B 58 58 58 58 58 5B 5B 5B 5B 5B 5B 5B 5B 5B 5B 5B 5B 5B 5B 5B 5B 5B 5B 5B 5B 5B 5B 5B 5B 5B 5B 5B 5B 5B 5B 5B 5B 5B 5B 5B 5B 5B 5B 5B 5B 5B 5B 5B 5B 5B 5B 5B 5B 5B 5B 5B 5B 5B 5B 5B 5B 5B 5B 5B 5B 5B 5B 5B 5B 5B 5B 5B 5B 5B 5B 5B 5B 5B 5B 5B 5B 5B 5B 5B 5B 5B 5B 5B 5B 5B 5B 5B 5B 5B 5B 5B 5B 5B 5B 5B 5B 5B 5B 5B 5B 5B 5B 5B 5B 5B 5B 5B 5B 5B 5B 5B 03 5B 5B 5B 5B 5B 5B 5B 5B 5B 5B 5B 5B 5B 5B 5B 5B]
+	internal static readonly __StaticArrayInitTypeSize=256 9554602FCFE44E49A3B944935FA0D572E1DF6D1BE17F76CB9E14E1275F0D1CB3; //Field offset: 0x358 || Has Field RVA (address hidden for diffability) || Field RVA Decoded (hex blob): [00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 02 02 00 02 02 02 02 02 02 02 02 02 02 00 00 00 00 00 00 00 03 03 03 03 03 03 03 03 03 03 03 03 03 03 03 03 03 03 03 03 03 03 03 03 03 03 00 00 00 00 03 00 03 03 03 03 03 03 03 03 03 03 03 03 03 03 03 03 03 03 03 03 03 03 03 03 03 03 00 00 00 00 00 03 03 03 03 03 03 03 03 03 03 03 03 03 03 03 03 03 03 03 03 03 03 03 03 03 03 03 03 03 03 03 03 03 03 03 03 03 03 03 03 03 03 03 03 03 03 03 03 03 03 03 03 03 03 03 03 03 03 03 03 03 03 03 03 03 03 03 03 03 03 03 03 03 03 03 03 03 03 03 03 03 03 03 03 03 03 03 03 03 03 03 03 03 03 03 03 03 03 03 03 03 03 03 03 03 03 03 03 03 03 03 03 03 03 03 03 03 03 03 03 03 03 03 03 03 03 03 03]
+	internal static readonly int A037601762B04773A79020244139E836ED4EDD25A5E9D142BD208AED00B390DF; //Field offset: 0x458 || Has Field RVA (address hidden for diffability)
+	internal static readonly __StaticArrayInitTypeSize=512 A2011EC537AEDB42D450CD8EE11952B207B84CD4F1FB4A51825260ADA111F019; //Field offset: 0x45C || Has Field RVA (address hidden for diffability) || Field RVA Decoded (hex blob): [00 01 00 01 00 01 00 01 00 01 00 01 00 01 00 01 00 01 00 01 00 01 00 01 00 01 00 01 00 01 00 01 00 01 00 01 00 01 00 01 00 01 00 01 00 01 00 01 00 01 00 01 00 01 00 01 00 01 00 01 00 01 00 01 00 01 00 01 00 01 00 01 00 01 00 01 00 01 00 01 00 01 00 01 00 01 00 01 00 01 00 01 00 01 00 01 00 00 10 00 20 00 30 00 40 00 50 00 60 00 70 00 80 00 90 00 00 01 00 01 00 01 00 01 00 01 00 01 00 01 00 01 00 01 00 01 00 01 00 01 00 01 00 01 00 01 00 01 00 01 00 01 00 01 00 01 00 01 00 01 00 01 00 01 00 01 00 01 00 01 00 01 00 01 00 01 00 01 00 01 00 01 00 01 00 01 00 01 00 01 00 01 00 01 A0 00 B0 00 C0 00 D0 00 E0 00 F0 00 00 01 00 01 00 01 00 01 00 01 00 01 00 01 00 01 00 01 00 01 00 01 00 01 00 01 00 01 00 01 00 01 00 01 00 01 00 01 00 01 00 01 00 01 00 01 00 01 00 01 00 01 00 01 00 01 00 01 00 01 00 01 00 01 00 01 00 01 00 01 00 01 00 01 00 01 00 01 00 01 00 01 00 01 00 01 00 01 00 01 00 01 00 01 00 01 00 01 00 01 00 01 00 01 00 01 00 01 00 01 00 01 00 01 00 01 00 01 00 01 00 01 00 01 00 01 00 01 00 01 00 01 00 01 00 01 00 01 00 01 00 01 00 01 00 01 00 00 01 00 02 00 03 00 04 00 05 00 06 00 07 00 08 00 09 00 00 01 00 01 00 01 00 01 00 01 00 01 00 01 00 01 00 01 00 01 00 01 00 01 00 01 00 01 00 01 00 01 00 01 00 01 00 01 00 01 00 01 00 01 00 01 00 01 00 01 00 01 00 01 00 01 00 01 00 01 00 01 00 01 00 01 00 01 00 01 00 01 00 01 00 01 00 01 0A 00 0B 00 0C 00 0D 00 0E 00 0F 00 00 01 00 01 00 01 00 01 00 01 00 01 00 01 00 01 00 01 00 01 00 01 00 01 00 01 00 01 00 01 00 01 00 01 00 01 00 01 00 01 00 01 00 01 00 01 00 01 00 01]
+	internal static readonly __StaticArrayInitTypeSize=30 A8FA6609048BE08405501B83AA4547AD47B4C5EAABDE4FC7F6A376A35E8106B2; //Field offset: 0x65C || Has Field RVA (address hidden for diffability) || Field RVA Decoded (hex blob): [3C 3F 78 6D 6C 20 76 65 72 73 69 6F 6E 3D 22 31 2E 30 22 20 65 6E 63 6F 64 69 6E 67 3D 22]
+	internal static readonly __StaticArrayInitTypeSize=80 AAFC395EF50119504BA02FF16011DC5F347953970F851D503AFFE6B942D5DD1C; //Field offset: 0x67A || Has Field RVA (address hidden for diffability) || Field RVA Decoded (hex blob): [03 00 00 00 07 00 00 00 11 00 00 00 25 00 00 00 59 00 00 00 C5 00 00 00 AF 01 00 00 97 03 00 00 8B 07 00 00 D1 0F 00 00 E3 20 00 00 6F 44 00 00 01 8E 00 00 A7 26 01 00 15 63 02 00 61 F3 04 00 3B 44 0A 00 3F 4A 15 00 C1 25 2C 00 6F 8B 5B 00]
+	internal static readonly long DACC0E6568D9B10337A1A693F10D42C3175E80C378154406C6FBFA989F919F51; //Field offset: 0x6D0 || Has Field RVA (address hidden for diffability)
+	internal static readonly int DBA5166AD9DB9BA648C1032EBBD34DCD0D085B50023B839EF5C68CA1DB93A563; //Field offset: 0x6D8 || Has Field RVA (address hidden for diffability)
+	internal static readonly long E8424EA5339B85A750AB5F4C63BDE5D5C62975792A3BED6CCB37C045207C6771; //Field offset: 0x6E0 || Has Field RVA (address hidden for diffability)
+	internal static readonly __StaticArrayInitTypeSize=64 FF517CBF611BA5DCC09449D4E0B1603306508DA5510FE4266AFDC0E32123E756; //Field offset: 0x6E8 || Has Field RVA (address hidden for diffability) || Field RVA Decoded (hex blob): [01 01 01 01 01 01 01 01 01 01 01 01 01 01 01 01 01 01 01 01 01 01 01 01 01 01 01 01 01 01 01 01 00 00 01 00 00 00 01 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 01 00 01 00]
+
+}
+

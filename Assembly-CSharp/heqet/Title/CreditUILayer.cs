@@ -1,0 +1,77 @@
+namespace Heqet.Title;
+
+public class CreditUILayer : UiScrollListLayerBase
+{
+	[CompilerGenerated]
+	private struct <<InitAll>b__10_1>d : IAsyncStateMachine
+	{
+		public int <>1__state; //Field offset: 0x0
+		public AsyncUniTaskVoidMethodBuilder <>t__builder; //Field offset: 0x4
+		public CreditUILayer <>4__this; //Field offset: 0x8
+		private Awaiter <>u__1; //Field offset: 0xC
+
+		private override void MoveNext() { }
+
+		[DebuggerHidden]
+		private override void SetStateMachine(IAsyncStateMachine stateMachine) { }
+
+	}
+
+	private CreditUIDisp m_creditDisp; //Field offset: 0x7C
+	private List<Data[]> m_lineSbListArray; //Field offset: 0x80
+	private bool m_isClosing; //Field offset: 0x84
+
+	public virtual bool IS_DISP_BACKGROUND
+	{
+		 get { } //Length: 3
+	}
+
+	public virtual bool IS_TOUCH_BACKGROUND
+	{
+		 get { } //Length: 3
+	}
+
+	public virtual bool IS_UPDATE_BACKGROUND
+	{
+		 get { } //Length: 3
+	}
+
+	public CreditUILayer() { }
+
+	[CompilerGenerated]
+	private void <InitAll>b__10_0(int button_id) { }
+
+	[AsyncStateMachine(typeof(<<InitAll>b__10_1>d))]
+	[CompilerGenerated]
+	private UniTaskVoid <InitAll>b__10_1() { }
+
+	protected virtual UiScrollListPanelBase CreatePanel() { }
+
+	protected virtual UiScrollListPanelBase CreateSubLayerPanel(Transform parent) { }
+
+	protected virtual bool EndUpdateAfter() { }
+
+	public virtual bool get_IS_DISP_BACKGROUND() { }
+
+	public virtual bool get_IS_TOUCH_BACKGROUND() { }
+
+	public virtual bool get_IS_UPDATE_BACKGROUND() { }
+
+	public Data[] GetLineSbList(int lineIndex) { }
+
+	protected virtual void InitAll() { }
+
+	protected virtual bool InitResourceWait() { }
+
+	protected virtual bool InitUpdateBefore() { }
+
+	protected virtual void LateUpdate(bool is_active) { }
+
+	public virtual void OverDeleteLayer() { }
+
+	protected virtual bool ReleaseLayer() { }
+
+	protected virtual void Update(bool is_active) { }
+
+}
+

@@ -1,0 +1,11 @@
+namespace UnityEngine.TextCore.Text;
+
+public class FastAction
+{
+	private LinkedList<Action> delegates; //Field offset: 0x8
+	private Dictionary<Action, LinkedListNode`1<Action>> lookup; //Field offset: 0xC
+
+	public FastAction() { }
+
+}
+
